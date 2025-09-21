@@ -37,7 +37,7 @@ body {
 }
 #bg-video {
   position: fixed;
-  right: 10;
+  right: 10px;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
@@ -67,4 +67,5 @@ body {
   box-shadow: 0 0 10px #1a1001,
               0 0 20px #ff9800,
               0 0 30px #00f80c;
+
 }
